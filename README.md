@@ -25,6 +25,7 @@ Converting categorical data into numeric format
 Data scaling and preprocessing
 Applying ICA (Independent Component Analysis)
 Extracting important components from the dataset
+
 📊 Machine Learning Technique
 
 This project uses FastICA for dimensionality reduction and feature extraction.
