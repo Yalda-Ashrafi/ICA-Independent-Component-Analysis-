@@ -26,6 +26,9 @@ Data scaling and preprocessing
 Applying ICA (Independent Component Analysis)
 Extracting important components from the dataset
 
+Kaggagle dataset:
+https://www.kaggle.com/datasets/kaushal200/surveydata
+
 📊 Machine Learning Technique
 
 This project uses FastICA for dimensionality reduction and feature extraction.
